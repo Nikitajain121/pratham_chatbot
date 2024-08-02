@@ -1,0 +1,476 @@
+1 
+ 
+ 
+2 
+ 
+From teaching children to engaging families:   
+Lessons from Pratham’s experiences during the pandemic    
+January 2022 
+ 
+Compared to other countries, India has had one of the longest duration school closures during the 
+pandemic. In some states, schools have remained shut for a period of almost two years. The entire 
+education sector had to scramble to design strategies for staying connected to children. Looking 
+back at our own education efforts in Pratham during this time, it seems clear that our focus moved 
+from “teaching” children to “reaching” families so that they in turn could engage with their children 
+on learning activities. Although developed directly in response to pandemic induced school closures, 
+the lessons learned from these efforts is influencing our operating strategies even as we head 
+towards non-pandemic times.1  
+ 
+With the sudden imposition of lockdown in March 2020, like many others, we had to transition 
+abruptly and without preparation from face-to-face daily interactions with children to connecting 
+from a distance. Initially, we focused on reaching families and trying to engage children rather than 
+on learning.  Families were facing many kinds of difficulties – economic disruptions, uncertainties 
+over livelihoods and fear about getting sick.  We felt that it was important to engage children and 
+provide them with fun activities that took their mind off problems around them. The message 
+campaign in the initial months was called “Karona Thodi Masti Thodi Padhai”.2  In focusing on 
+engagement, we learned a lot about how to facilitate and sustain continued participation of not only 
+children but also parents and family members. We began to understand how motivation can be kept 
+high despite challenges.  We saw how important it was to constantly adjust, adapt and improve 
+content and keep working on how to improve delivery and feedback.     
+ 
+For much of the period - April 2020 to July 2021, we sent messages for children to  families in 
+approximately 11,000 rural and urban communities where there had been a direct Pratham connect 
+in pre-COVID times. On average, about 300,000 messages went out every day. At the peak of the 
+“reach out” and “staying in touch” campaigns the daily numbers were close to 475,000.  
+ 
+Learnings from the pandemic period can be put into three broad buckets:  
+(a) Using remote means to stay in touch with children and their families   
+(b) Designing useful content for the family as well as the child  
+(c) Leveraging social structures to engage families and through them their children     
+ 
+ 
+A. Using remote means to stay in touch with children and their families  
+ 
+Engaging communities and networks to find children: Constantly expanding and updating lists of 
+active phone numbers was central to maximizing the reach of our programs: Prior to the pandemic, 
+especially where we were meeting children daily in communities and schools, there was no need for 
+phone numbers. When the pandemic suddenly hit and lockdown was imposed, we hardly had 
+anyone’s numbers. However, a fast, determined and systematic push to “reach out” brought in 
+many phone numbers quickly into our network. Each Pratham person called anyone they could, in 
+the communities in which they had been working. School teachers, local elected officials, anganwadi 
+ 
+1 This note focusses on processes and strategies that were used by Pratham to remain connected to children 
+during this long period of school closure. At the end of the note, there is a section on data that links possible 
+impact of these efforts on children’s learning.  
+ 
+2 “Karona Thodi Masti Thodi Padhai” literally meant “let’s do some fun and some study”. The word “karona” in 
+several Indian languages means “to do”. It is also used as a play on the word “corona”.  
+3 
+ 
+workers – all were useful in this reaching-out process. In the early days of the lockdown, the effort 
+was structured in the following way: contact at least one person in each community (family member 
+or youth) and through them reach out to at least one person in each hamlet in the village. And using 
+the same principle of cascading, maximize the reach in every hamlet.  In the education programs, 
+Pratham’s internal tracking system shows that there were 56,800 active numbers on April 12, 2021; 
+this figure increased to 207,400 by June 12, 2021 and kept growing as days went on.3  Having a list of 
+active phone numbers (and information about the type of phone) of children’s families and keeping 
+this list updated is a key learning that has to be part of the preparedness for future disruptions. The 
+broad numbers (10,000 + communities and a steady figure of 300,000 phone numbers) suggest that 
+at least 25-30 families were directly reached in each community. However, it was also often the case 
+that messages got forwarded from receivers to more people within the same communities and to 
+friends and families.4  
+ 
+Narrowing the unit of operation: Prior to the pandemic, the usual unit of operation for Pratham’s 
+education programs was the local government primary school and the village in which the school 
+was situated (and the equivalent in urban areas). However, as the lockdown proceeded, for reaching 
+out, tracking and other activities, the sub-village unit – usually the hamlet was the most useful. Even 
+as schools are re-opening, the hamlet wise tracking of re-enrollment and attendance is proving to be 
+very useful for targeted attention. The mohalla or hamlet is likely to remain the basic unit of 
+planning and operation for Pratham’s field programs in the future.5  
+ 
+Maximizing reach required knowing what kinds of phones families had : Early in the pandemic, it 
+became clear that smartphones were available only in some families. The incidence of  the families 
+who had access to smartphones ranged from 30% to 60+% depending on the location and the type 
+of family. However close to 90% had access to some kind of phone (either a basic phone or a smart 
+phone). 6  Together the aggregate data and the anecdotal ground level experiences indicated that 
+we needed to connect also to basic phones. Over time, about 40-45% of all Pratham messages were 
+SMS messages and the rest were WhatsApp. Depending on the social structures into which 
+messages were being sent, combinations of messaging (SMS and WhatsApp) were also sent. For 
+example, in 2021, there was large-scale formation of “mother’s groups” by neighbourhood 
+(hamlet/mohalla). Mothers of young children (usually in pre-school or Grade 1 and 2) in the same 
+neighbourhood came together to share experiences and activities.  Individual mothers got SMS 
+messages on a daily basis but once a week the mothers’ group leader (often referred to as 
+SmartMata) would receive digital content for group activities. With a large section of the population 
+not being able to access smartphones, it is critical that both SMS and WhatsApp options are used 
+equally; delivery and content needs to be continually adapted to these conditions.  
+ 
+Tracking access and usage patterns : In the first few weeks of lockdown, where literally all family 
+members were at home, children’s access to the available smartphones was high. However, as 
+lockdown restrictions loosened up, adults in the family began to go out for work, we noticed 
+declines and delays in children’s responses to messages. Further, as the economic disruptions 
+continued, some households had difficulty in buying internet time. Changing external conditions 
+influence access; how and when children get to use the phone for educational purposes can vary on 
+these conditions – access is dynamic and constantly changing. Therefore, regular tracking of access 
+and analysis of usage patterns is essential if remote learning mechanisms are to be used for a long 
+period of time.  
+ 
+3 See Pratham Pandemic Report 1 (MME 2020-2021)  
+4 We know that a significant amount of “forwarding” happened. However accurately estimating the extent of 
+such activity has been hard to do.  
+5 See slide no. 6 in Pratham Pandemic Report 1  
+6 Pratham Pandemic Report 1   
+4 
+ 
+ 
+Having a smartphone at home does not necessarily mean that children have access: Time and 
+again, children and teachers have complained that just because there is smartphone in the 
+household does not automatically ensure that children have access to it. Usually the smartphone 
+belongs to an adult (parent or other family member) who is at work all day. When s/he returns 
+home at night, it is often not possible to use the phone at that time to access learning 
+opportunities.7 In fact, ASER 2021 data shows that on average 30+% of children in households with 
+smartphones do not have access to the digital device and that access varies considerably by age and 
+grade.8 The key lesson is that simply having a smartphone in household does not guarantee ongoing 
+and continuous access. Any distance education program should not only use figures of smartphone 
+penetration but also build in information about usage patterns in order to effectively plan online 
+lessons or any other form of remote education.   
+ 
+B. Designing useful content for use by the family as well as the child 
+ 
+Before COVID, in most of Pratham’s education programs, instruction was largely carried out in a 
+class-room or group setting, where an instructor/teacher did actual activities with children. The 
+direct and daily connect between the “teacher” and the “learner” shaped how activities were 
+organized. The “delivery” of teaching-learning was direct; oral instructions and interactions, physical 
+materials, whether print or actual objects, were used. As part of Pratham’s instructional practice, 
+children did large group activity, small group practice and then individual work as well. Other than 
+cost constraints, there were no limitations on what kinds of materials or activities were to be utilized 
+and feedback and response to activities and materials was instantly available.  
+ 
+The sudden arrival of the pandemic fundamentally changed the very basis on which instruction was 
+organized. “Delivery” depended on device availability and accessibility and only digital content could 
+be sent. Two interconnected elements had to be considered: 
+ 
+(a) Delivery depended on the mechanism by which activities or tasks could be sent. While 
+WhatApp messages could have videos, audio or text files, SMS was limited to 160 characters. 
+It was a challenge to see how to maximize what a 160 character limit could unleash. 9 
+ 
+(b) Digital content in the form of engagement activities arrived in the family via a device 
+belonging to someone in the family. The receiver then had to take the activity to the child. In 
+many cases, the child could not as yet read so a family member had to explain and 
+demonstrate what had to be done with specific activities. This implied that content that was 
+being sent needed to be adapted for use in the family.  
+ 
+A few illustrations will help to make these points clearer.  
+ 
+Using creativity to customize content to meet the requirement of the platform used:  
+Videos can help to demonstrate activities. For example, to encourage counting, short clips were 
+made of how to count spokes of bicycles or teeth of family members. (Dental Math 
+ 
+7 Here is an anecdote: A father of three children in Chandigarh explained the difficulties to me very clearly. He 
+is an auto-rickshaw driver. During the day, the phone is with him and he needs it for a variety of reasons for 
+work and otherwise. He comes home late at night. All day on his phone he has received pdf worksheets and 
+other assignments for his three children. He is not able to understand (and often neither are his children) as to 
+what has come from whom. Often the younger children are asleep when he gets back. He is also reluctant to 
+hand over his phone to the children for too long.  
+8 ASER 2021 (nationally representative household sample phone survey). See www.asercentre.org   
+9 See SIT (Staying in Touch) Activity Round 1 report and Round 2 report from May-June 2020.  
+5 
+ 
+https://www.youtube.com/watch?v=wFa8hbS4VB8 or Counting with household objects). Similarly, 
+math games are easy to communicate in the form of a pdf file, but much more creativity is required 
+to make a SMS to be as engaging as possible.10  
+ 
+Here are two examples of SMS that illustrate how several steps can be embedded within an SMS 
+text message.  
+ 
+  
+ 
+Making content contextually relevant to engage families of children   
+Since sending activity messages was a new activity, Pratham team members called families once a 
+week or once a fortnight to understand how the family and how the children were responding to the 
+inputs they were being sent. There is more discussion on two-way communication in the next 
+section, however for now it is sufficient to say that feedback and response from families was 
+invaluable for understanding which kinds of tasks or activities garnered greater participation from 
+family members than others.   
+ 
+Here are some examples for primary school age children: 
+ 
+For example: consider the following task sent on an SMS message:   
+“Draw a triangle with three equal sides.  
+Name a triangle such as this?  
+Draw a triangle which has two equal sides.  
+What is the name of a triangle like this?” 
+By and large, parents felt this was a “school-like” task and left children to do it on their own.  
+ 
+In contrast, look at the following task: 
+“How much water was used in your household yesterday.  
+Can you estimate – how many buckets?  
+How much for cooking, cleaning, washing, bathing, etc”   
+ 
+10 See the internal studies on SIT (Staying in Touch) Round 1 and Round 2 reports.  
+6 
+ 
+This one led to many calls from family members and parents with questions and clarifications. 
+Comments like, “Yesterday was not a good day for water supply so can we provide details for 
+today?”, “Why should the estimate be in buckets and not in drums or tanks?” and so on.  
+ 
+For parents and family members, “reaching at the right level” was the clue for their continued 
+engagement. If activities were sent that were too school-like, family members passed them on to 
+their children to do on their own. If activities were connected to real life then there was greater 
+involvement of those in the household. In designing content for remote activities, it is worth 
+remembering that the interest and motivation of family members will drive their interactions with 
+children. Hence their responses are as important as those of children. “Real life” based learning had 
+wide appeal for all. For younger children, the entire set of engagement activities is designed for 
+parents or family members to do with their children.11 
+ 
+“Why” something is worth learning, “who” can help and in “what way” can learning happen 
+effectively are all matters as important as “what” to learn and “at what” level. The pandemic forced 
+us to go behind the “what” and explore many interconnected aspects of motivation, interest and 
+choice. Content and activities act as “triggers” rather than the end in itself.  The central role of 
+“mediators” (mothers, parents, family members) of learning, their own interests and motivation are 
+issues that we had never paid close attention to. In re-working our approach to children’s learning, 
+these are important lessons from the pandemic experience that will have to be factored into future 
+plans.     
+ 
+ 
+C. Leveraging social structures for children’s learning: Engaging families and through them their 
+children   
+ 
+ 
+In much of the current discussions on the role of educational technology in children’s education, the 
+focus is on the nature and type of  digital content, access to devices and to connectivity. In 
+Pratham’s remote work during COVID, we have found that social structures (existing ones like 
+friendships in the community or new ones like children’s groups and mothers’ groups) can play a big 
+part in deepening engagement. Group activities and individual contact are both important in terms 
+of keeping continuous participation at a high level and so is continuous two-way communication. As 
+Pratham’s work moved during the pandemic from direct interactions with children to facilitating 
+engagement through family members, it became clear that strengthening social structures around 
+children is an effective investment for the present but also for the future.  
+ 
+Two-way communication emerged as an essential ingredient for improving content and delivery in 
+remote learning contexts; ongoing interactions and continuing conversations help in keeping 
+children’s engagement and family participation high. Genuine feedback and in depth follow-up are 
+constantly needed for tailoring and adjusting activities to fit the needs and interests of children and 
+their families.   
+ 
+Dealing with a known person gets more engagement than receiving bulk messages:  
+ 
+11 Learnings from what happens with messages within the household were used very effectively in designing 
+and delivering a 6-week health awareness and prevention campaign at the height of the devastating second 
+wave of the pandemic – Karona Apni Suraksha (KAS). In this campaign, thematic messages went out every 
+week (daily or on alternate days) to heighten awareness about what to do with COVID. Details of this campaign 
+have been published in Delhi Government’s DCPCR journal 
+(https://www.prathamyouthnet.org/prathamorg/Children_First.pdf). Also see Final KAS Presentation August 
+2021.  
+7 
+ 
+Early in the initial lockdown period decisions had to be taken on how phone messages would go out. 
+While WhatsApp technology enables distribution to groups to happen easily and two-way channels 
+of communication are built in, that is not the case with SMS. Thus, it was felt that given the 
+limitations of content delivery in text form and the weaker economic background of these 
+households, SMS families would need more actual handholding and discussions. Instead of using 
+bulk messaging, it was decided that each Pratham team member would send out SMS messages to 
+communities where they were known before COVID struck. It would be the same person who would 
+call once a week or once a fortnight to understand the current status of the family and feedback on 
+the activities being sent. The ongoing interaction also encouraged children to send back their 
+responses either in the form of video, audio, photographs, or text to the same known person.  For 
+example, even if the child did not have a smartphone at home, it was not uncommon for children to 
+be sending their responses to the activity prompts via neighbours’ or friends’ phones. Whether 
+children or parents, motivation to share and to respond to content that was being sent was 
+important in terms of maintaining high engagement over a period of time.   
+ 
+Improving uptake and absorption of messages requires a two-way communication process   
+Clear evidence of how human interaction leads to better traction was visible in the six-week large 
+scale phone message COVID awareness campaign that was carried out by Pratham in May-June 
+2021.12   
+Uptake of phone messages - SMS and WhatsApp were similar, with nearly 2/3rd of the recipients 
+reading these messages (this also means that a third of all messages received are not read). In a 
+tracking study conducted as part of this campaign, a set of contacts were spoken to only once during 
+the week (spot check contacts), while the rest were spoken to every day of the week. The data 
+shows that ongoing communication on a daily basis made a difference,  especially in the interaction 
+with messages, and sharing of information with other family members. For families with basic 
+phones, those who  were contacted regularly shared COVID-related information and messages with 
+other family members much more (10-40 percentage points higher) than those called only once a 
+week.  
+ 
+As technology makes it increasingly easier to widen access, and do it with lower cost and lower 
+intensity, there is a tendency to prioritize reach over interaction and eventual message absorption 
+and use. While human interaction is effective, this may limit our ability to scale or control costs. 
+Balancing reach with interaction, ensuring that appropriate feedback is being received is important. 
+Such balance may require constant experimenting with how much interaction is required for 
+improving delivery and outcomes.  
+ 
+Determining who in the household helps children with learning activities received through the 
+phone:  
+If there is one smart phone in the family, it is usually in the hands of the adult male (father or 
+brother). A few “deep dives” with a small number of families was done in May-June 2020 to 
+understand who receives the message and who does the activity with children in the family.13 Based 
+on these studies, it seems that more fathers receive messages but more mothers are engaged in 
+helping children. These patterns of engagement and participation vary by the child’s grade. While 
+the focus of the “deep dive” was in tracking parental engagement, we did not sufficiently explore 
+how siblings help each other in studying. In future studies, this fact needs to be investigated further.  
+ 
+Understanding the implications of who helps whom within families is important for planning future 
+action. Clearly more work is needed to involve fathers in engagement activities with children.  
+ 
+12 See Pratham report 2_KAS (MME 2020-21).  
+13 See Staying in touch reports Round 1 and Round 2 (MME 2020-21). 
+8 
+ 
+Perhaps more explicit “role modelling” will be needed.14 Design of content and activities with a view 
+to bringing in fathers may also be needed. At the same time, increasing mothers’ access to digital 
+content/devices may also help in strengthening what they can do with children.  
+ 
+An interesting point about parent perceptions has emerged in a tracking study done with early 
+graders in Satna, Madhya Pradesh. In this program, a baseline was done with children and their 
+families in late 2019. A year later, when movement was possible, Pratham team members visited 
+children’s homes, chatted with parents and also did one-on-one reading and math tasks with 
+children. Parents were asked if they thought “phone messages had made a difference to their child’s 
+learning”. Analysis of responses from over 1200 families suggests a strong correlation between 
+parent’s positive perception and children’s learning gains. Parents who believed that messages 
+helped also had children who had improved. While it is difficult to disentangle causation from 
+correlation, it is probably true that parental beliefs can strengthen their effort to access learning 
+opportunities for their children.15   
+ 
+In the last year, Pratham’s efforts with young mothers has intensified. In all rural and urban 
+communities where we have a direct presence, mothers’ groups have been formed in the mohalla or 
+neighbourhood. These mothers get activity messages on their phones directly (daily or every other 
+day) and the group meets periodically to discuss what they have been doing with their children. An 
+in-house study tracking pre-school age indicated that young children learn more if there is 
+engagement from family members.16  Another “deep dive” with mothers’ groups in Banaskantha 
+district in Gujarat shows that understanding of foundational learning and importance of early 
+childhood education is higher among mothers who had their own phones and had some years of 
+schooling, but some of these advantages are evened out when mothers without cell phones or 
+without much education are part of mothers’ groups.17 
+ 
+ 
+Hamlet or Mohalla learning camps with youth volunteers  
+ 
+During the first few months of the pandemic Pratham team members listed potential volunteers 
+who were willing to help with children in their neighbourhood. More than 17,000 young volunteers 
+ran mini-learning camps in hamlets in 2020 and ~25,000 volunteers conducted 
+neighbourhood/mohalla learning camps during the two-month catch-up campaign in the August-
+October 2021 period just before schools began to open in much of India. These young volunteers 
+continue to be an important pillar in the social structure that support engagement with and learning 
+of children. 
+ 
+HOW HAVE THE DIFFERENT INPUTS IMPACTED CHILDREN’S LEARNING IN PRATHAM PROGRAMS?  
+ 
+Without a proper control or comparison group, it is not possible to understand what would have 
+happened if there had been no efforts from Pratham. It was also not possible to collect data on what 
+inputs children were receiving from school sources, from their own sources and how consistently 
+these types of learning opportunities were available. There were a few cases during the lockdown 
+ 
+14 An interesting example emerged, unintentionally, from one of the early years videos. 
+https://www.youtube.com/watch?v=9Fj4ztn50eg. The video clip from Pratham showed a young father and his 
+son playing a pattern game with household utensils. In response to the video, many families sent back video 
+similar clips in which young fathers were seen doing that activity in their own homes.   
+15 Pratham Pandemic Report 3 EY Satna 2020 
+16 Pratham Pandemic Report 2 ECE SBA 2020-21. Slide no. 17 
+17 Pratham Pandemic Report 2 and Report 3  
+9 
+ 
+where it was possible to track whether the “staying in touch” efforts were reaping results by using 
+some of the internal variations within the program data:  
+ 
+• 
+Early Years program in Satna, Madhya Pradesh: This is a community-based intervention for 
+improving basic reading and math for children in Grades 1 to 3 that had started in October 
+2019. However, the pandemic struck less than six months after the program began.  
+Comparing basic learning levels in December 2020 with that in 2019, we see that overall the 
+percentage of children who can at least read words increased from 26% to 50%. Over half of 
+all children improved their reading. While it is difficult to exactly attribute what led to the 
+increase (or the lack of decline), evidence suggests that for children who received phone 
+messages learning gains were higher than those who did not receive messages.18  
+ 
+• 
+Pratham direct programs: In February 2021, Pratham teams conducted what was called the 
+“Reach and Learning Exercise”. At the time, the incidence of COVID seemed to be abating 
+and it was important to carry out structured visits to a sample of Pratham communities to 
+understand how children had fared in the past year in terms of their schooling status and 
+learning levels. A sample of 270 villages and communities were visited across the country. 
+These were locations where Pratham had been running programs in the pre-COVID time. 
+Overall 37,000 children were surveyed in this exercise. For approximately 20,000 children 
+data was collected about whether they had received any inputs from Pratham since 
+lockdown began in March 2020. Inputs included phone messages, participation in any 
+Pratham-facilitated children’s group activities including classes. For younger children it 
+included involvement of their mothers in mothers’ group activities.19 Data suggests that 
+children who received more inputs (messages, neighbourhood activities) gained slightly 
+more in terms of basic learning than those who received fewer inputs. Also, children who 
+were part of Pratham’s volunteer classes in the community had overall better learning levels 
+than children who did not participate.  
+ 
+ 
+CONCLUDING THOUGHTS:  
+ 
+For Pratham, like for many other organizations, the pandemic period has been a very fertile one – 
+new challenges, new experiments, new capacities and new learnings. All across the organization, 
+Pratham teams learned to use digital devices and content in a way that enabled them to reach 
+children, youth and families. We learned how to function in a flexible way and how to change gears 
+as per the lockdown restrictions and COVID situation in the communities. The last two years have 
+also highlighted how different types of people (mothers, parents, youth) can participate and 
+contribute to their children’s learning. They have taught us how existing social structures can be 
+leveraged for deeper engagement and continued connections for learning. Many of the lessons 
+learned (successes and failures) will be adapted for longer run use and for strengthening our efforts 
+to enable every child to learn.  
+ 
+  
+ 
+ 
+ 
+18 Pratham Pandemic Report 3 EY Satna. In November 2019, of the children who did not receive phone 
+messages later, 14% could read words or more. A year later, the proportion of these children who could read 
+words went up to 30%. Among children who later received messages, 28% were able to read words or more in 
+2019 and this level went up to 54% a year later. (In terms of percentage point improvement, the “message 
+children” gained 10 percentage points more than the “no-message children”.) See slide no. 14 and 22.    
+19 Pratham Pandemic Report 4: Reach & Learning Exercise Feb 2021. See slide no. 28-29-30.  
+10 
+ 
+ENDNOTES:  Some other interventions worth highlighting  
+ 
+(1) QUIZ: 
+ 
+An initiative that was first tried in Bihar in late 2020 and then taken to scale during the KAS- Karona 
+Apni Suraksha campaign during May-July 2021 was the web-link based ‘Quiz’ exercise. A simple, 
+relevant, and engaging multi-choice quiz linked to the content shared via SMS & WhatsApp was an 
+effective way of engaging with our key stakeholders – children, parents, volunteers, and youth. While 
+the quiz could be taken by anyone who had a smartphone, we developed a feature where a maximum 
+of 10 participants could be linked to one device/ phone number. This enabled us to reach those 
+children and parents who did not have smartphones as well. State teams shared this link with all their 
+contacts for a specific time duration and encouraged them to share it further in their community. 
+Through a real-time dashboard, teams could track participation in the quiz at a district & block level. 
+This information created healthy competition within and among states and districts across Pratham.  
+ 
+In the second quiz of Karona Apni Suraksha (KAS) – the corona awareness campaign in May-June 2021 
+- the quiz was taken by almost 1 million participants over a 7-day period. A prescheduled ‘recall-based’ 
+activity helped promote engagement, participation, and excitement. Having questions for both 
+children as well as adults increased participation. Since the KAS campaign, the web-linked Quiz 
+platform (which has been developed completely in-house by the MME team) has been used in the 
+Math Mohalla Learning Camps and now is regularly being used in Bihar’s government partnership 
+programs which are focused on government appointed education volunteers and mothers in Self-help 
+Groups. 
+ 
+ 
+(2) BROADCAST MEDIA: 
+ 
+Pratham teams in different states also collaborated with State Governments to share educational 
+content via different broadcast media such as TV and Radio. Two of the most prominent programs 
+were the Shale-baherchi-Shala (school out of school) radio program in Maharashtra and the Mera 
+Doordarshan, Mera Vidyalaya campaign on DD Bihar in Bihar. The TV program was designed to focus 
+on the foundation skills of reading (in Hindi) and basic math. Designed to be for one hour, Pratham 
+produced 3-4 capsules of concept pieces per episode of 6-7 minutes each, interspersed with fun 
+learning activities for the students to do at home. Having anchors, breaks, characters, and fun activities 
+in between ensured that the children engaged with the content like a TV program as opposed to an 
+instructional video. The Radio program used a transmedia approach by combining the use of 
+SMS/WhatsApp and radio broadcast. Using multiple mechanisms for reaching children made the 
+experience of engagement and learning experience hybrid and unique. Daily engagement activities 
+for children were sent through WhatsApp/SMS to each parent. Designed for learners of pre-primary 
+and primary age groups, the messages were written in Marathi and were focused on age-appropriate 
+learning activities. Activities were designed to be simple and easy for parents especially mothers to do 
+with their children. 
+ 
+For both modes, as Pratham learnt from message sharing, establishing a two-way communication was 
+important to ensure regular engagement and hence Pratham members and government teachers 
+would regularly conduct follow-up/ feedback calls to discuss content previously shown on TV or heard 
+on the radio program. 
+ 
+In a sample survey (2,100 households) conducted by the Bihar team, it was found that 38% of the 
+households said that they watched the TV program every day and a similar percentage (40%) watched 
+it sometimes in the week. 21% did not watch the TV program, however 88% of the households who 
+11 
+ 
+didn’t watch the TV program gave lack of access to a device as the primary reason. Families with Std 
+1-2 and Std 3-5 children reported that siblings are the ‘people at home’ who help the child solve the 
+activities done in the TV program. Mothers tend to help more than Fathers for both groups. 2/3rd of 
+households with Std 1-2 children reported that the child required help to the solve activities on the 
+TV program, while little more than half (56%) of Std 3-5 children required help from family members.   
+ 
