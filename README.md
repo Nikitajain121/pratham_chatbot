@@ -17,7 +17,7 @@ I. have earlier made chatbot using RASA, LlamaIndex , Langchain . But this time 
  3. Free 5$ AI tokens with pay as you model
  4. Option to choose from AI models
  5. And separate plan for teams with upgradations.
- 6. Using the Haiku model, the total monthly cost for 1,000 users, each with an average of five queries, comes to just $4.875. This is significantly lower compared to other models.
-    
+ 6. For 1,000 users, each with an average of five queries, the total tokens consumed would be around 6.3 million per month.
+ 7.  Using the Haiku model, costing $0.25 per million input tokens and $1.25 per million output tokens,total monthly cost would be $4.875. This is significantly lower compared to other models.
 II. For a detailed explanation and demonstration, please watch the YouTube video.-- 
 @ https://www.youtube.com/watch?v=vr_4DAQYbRA
